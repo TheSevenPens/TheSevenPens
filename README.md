@@ -1,7 +1,7 @@
 
 - You reach me @TheSevenPens on Twitter
-- My docs on drawing tablets: https://docs.thesevenpens.com/drawtab/ 
-- My YouTube channel: https://www.youtube.com/@thesevenpens
+- My docs on drawing tablets: https://docs.sevenpens.com/drawtab/ 
+- My YouTube channel: https://www.youtube.com/@sevenpens
 
 
 
