@@ -1,8 +1,9 @@
 
-- X(Twitter): [@TheSevenPens](https://x.com/TheSevenPens)
+
+- https://sevenpens.com - all my links here
+- - X(Twitter): [@TheSevenPens](https://x.com/TheSevenPens)
 - YouTube: https://www.youtube.com/@sevenpens
 - My docs on drawing tablets: https://docs.sevenpens.com/drawtab/ 
-
 
 
 
